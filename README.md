@@ -7,7 +7,7 @@ Aim: To search a particular string in a single or multiple files .<br>
 1. Clone the repo
 
 ```
-https://github.com/Mayur2506/Grep.git
+https://github.com/Adityamagar/Grep.git
 ```
 2. Move Into Working Directory
 
